@@ -1,0 +1,9 @@
+<div id="observablehq-3bdc9699"></div>
+<p>Credit: <a href="https://observablehq.com/d/69bfd4b7de7ab0f3">Wildlife Biology/Computer Science Course Requirement Networks Final Version by Bella Wengappuly</a></p>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/69bfd4b7de7ab0f3.js?v=4";
+new Runtime().module(define, Inspector.into("#observablehq-3bdc9699"));
+</script>
